@@ -6,4 +6,4 @@ source ./bitbake.env
 MACHINE=... bitbake openblackhole-image
 
 build optional packages in the feed:
-MACHINE=... bitbake openblackhole feed
+MACHINE=... bitbake openblackhole feed# openblackhole-oe-core
